@@ -1,0 +1,7 @@
+*.d
+*.o
+unittest
+var
+logs
+TODO
+ouch_simulator
